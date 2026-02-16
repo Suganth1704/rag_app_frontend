@@ -11,7 +11,7 @@ vector database, and retrieve relevant information to generate accurate,
 context-aware responses using an LLM.
 
 # 🛠️ Technology Stack
-- **Groq AI**
+- **Streamlit**
 ## 🔹 Versioning
 
 -  Git & Git hub
